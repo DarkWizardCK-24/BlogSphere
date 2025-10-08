@@ -304,7 +304,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                     const SizedBox(width: 8),
                     Flexible(
                       child: Text(
-                        'Blogg',
+                        'Bloggify',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,
