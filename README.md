@@ -1,4 +1,4 @@
-# 📝 BlogSphere
+# BlogSphere 📝
 Welcome to BlogSphere, a modern blog app built with Flutter & Dart, powered by Supabase for authentication and SQL database integration. Designed with Clean Architecture principles, it ensures scalability and maintainability while offering a fully responsive UI for seamless experiences across devices. 🚀
 
 # ✨ Features
